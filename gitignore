@@ -1,0 +1,24 @@
+# Raw and intermediate LEMON data — never publish participant-level files,
+# even de-identified, per LEMON's data usage terms.
+LEMON_raw/
+LEMON_extracted/
+LEMON_preprocessed/
+LEMON_network_timecourses/
+LEMON_activity/
+LEMON_connectivity/
+LEMON_questionnaires/
+lemon_epochs/
+
+# Raw EEG / MNE binary formats — wherever they might appear
+*.fif
+*.eeg
+*.vhdr
+*.vmrk
+*.tar
+*.tar.gz
+
+# Colab/Jupyter housekeeping
+.ipynb_checkpoints/
+
+# NOT ignored: your own summary/results files (correlations.csv, qc_log.csv)
+# stay trackable — no blanket *.csv rule that would catch them too.

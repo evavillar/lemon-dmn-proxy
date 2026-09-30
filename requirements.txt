@@ -1,0 +1,8 @@
+mne>=1.13
+mne-connectivity
+mne-icalabel
+pyprep
+pandas
+numpy
+scipy
+statsmodels
