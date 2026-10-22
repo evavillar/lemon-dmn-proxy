@@ -317,6 +317,12 @@ these packages is included in the repository root.
 - Gramfort, A., et al. (2013). MEG and EEG data analysis with MNE-Python.
   *Frontiers in Neuroscience*, 7, 267.
 
-## 17. Author
+   ## 17. AI assistance
+
+The code was written by the author with the assistance of Claude Opus 5.5 (Anthropic),
+which was also used to write and debug the code. The author made all analytic decisions 
+and takes responsibility for the content.
+
+   ## 18. Author
 
 *Eva Villar, evagarciavillar12@gmail.com*
